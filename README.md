@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +78,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# mlm-app-react-native
+MyTeam is a React Native application designed to help users build and manage hierarchical networks, such as family trees, organizational structures, or team connections. With a user-friendly interface and Firebase integration, MyTeam makes it simple to explore, update, and visualize relationships up to 10 levels deep.
+>>>>>>> origin/main
